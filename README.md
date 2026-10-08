@@ -1,5 +1,4 @@
-# Fitsum Ferdu Azerefegne — Portfolio
-
+# Fitsum Ferdu Azerefegne 
 Personal portfolio site. Single-file static site (HTML, CSS, vanilla JS) with no build step.
 
 ## Run locally
